@@ -1,4 +1,5 @@
-### Hello, World! :octocat:
+### Hello!
+Nie wiem co tutaj napisać, więc niczego tutaj nie ma. Może kiedyś będzie. :octocat:
 
 <!--
 **usigna/usigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
