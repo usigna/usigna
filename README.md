@@ -1,8 +1,10 @@
-### Hello!
-Nie wiem co tutaj napisać, więc niczego tutaj nie ma. Może kiedyś będzie. :octocat:
+<img src="https://github.com/usigna/usigna/blob/main/tree200.png" align="left" />
 
 <!--
 **usigna/usigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Cześć!
+Nie wiem co tutaj napisać, więc niczego tutaj nie ma. Może kiedyś będzie. :octocat:
 
 Here are some ideas to get you started:
 
