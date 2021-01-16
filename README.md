@@ -1,4 +1,15 @@
+Cześć,
 
+Podobno mam tak dużego bzika na punkcie dostępności, że aż zrobiono ze mnie ekspert ds. zgodności WCAG na Politechnice Gdańskiej.
+
+- Z wykształcenia jestem ekonomistką
+- Lubię kodować strony internetowe
+- Nie lubię kodować skomplikowanych aplikacji
+- Znam HTML, CSS, Sass, JavaScript
+- Aktualnie pogłębiam wiedzę z UX i WordPressa
+- Według testu 16personalities jestem INFJ
+
+Jeżeli chcesz porozmawiać o dostępności napisz na: uwagakodowanko@gmail.com
 
 <!--
 **usigna/usigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
