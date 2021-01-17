@@ -2,7 +2,6 @@ Cześć,
 
 Podobno mam tak dużego bzika na punkcie dostępności, że aż zrobiono ze mnie ekspert ds. zgodności WCAG na Politechnice Gdańskiej.
 
-- Z wykształcenia jestem ekonomistką
 - Lubię kodować strony internetowe
 - Nie lubię kodować skomplikowanych aplikacji
 - Znam HTML, CSS, Sass, JavaScript
