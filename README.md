@@ -10,6 +10,8 @@ Podobno mam tak dużego bzika na punkcie dostępności, że zrobiono ze mnie eks
 
 Jeżeli chcesz porozmawiać o dostępności napisz na: uwagakodowanko@gmail.com
 
+PS. Szukam projektów (np. open source), do których można wdrożyć WCAG, ponieważ chcę zbudować nowe portfolio i nauczyć się lepiej programować. Z powodu umowy nie mogę wykonywać projektów dla innych uczelni, zwłaszcza komercyjnie.
+
 <!--
 **usigna/usigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
