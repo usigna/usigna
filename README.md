@@ -3,7 +3,6 @@ Cześć,
 Podobno mam tak dużego bzika na punkcie dostępności, że zrobiono ze mnie eksperta ds. zgodności WCAG na Politechnice Gdańskiej.
 
 - Lubię kodować strony internetowe
-- Nie lubię kodować skomplikowanych aplikacji
 - Znam HTML, CSS, Sass, JavaScript
 - Aktualnie pogłębiam wiedzę z UX i WordPressa
 - Według testu 16personalities jestem INFJ
