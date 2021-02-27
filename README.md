@@ -7,9 +7,9 @@ Podobno mam tak dużego bzika na punkcie dostępności, że zrobiono ze mnie eks
 - Aktualnie pogłębiam wiedzę z UX i WordPressa
 - Według testu 16personalities jestem INFJ
 
-Jeżeli chcesz porozmawiać o dostępności napisz na: uwagakodowanko@gmail.com
+Z powodu umowy projektowej szukam nowej pracy (Front-End Developer, Web Developer, inne stanowisko związane z dostępnością) na dłuższy czas niż maksymalnie kilka miesięcy. Nie chcę ponownie przechodzić przez to samo, co spotkało mnie na PG, dlatego bardzo zależy mi na miejscu, w którym o warunkach współpracy dowiem się w ciągu pierwszego tygodnia od wyznaczonej osoby. Dyrekcja CUI (przełożeni) otrzymała informację, że szukam innej pracy oraz zna powody.
 
-PS. Szukam projektów (np. open source), do których można wdrożyć WCAG, ponieważ chcę zbudować nowe portfolio i nauczyć się lepiej programować. Z powodu umowy nie mogę wykonywać projektów dla innych uczelni, zwłaszcza komercyjnie.
+Jeżeli chcesz porozmawiać (np. o dostępności) napisz na: uwagakodowanko@gmail.com
 
 <!--
 **usigna/usigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
