@@ -7,7 +7,7 @@ Cześć,
 - Slajdy dotyczące dostępności: https://www.instagram.com/uwaga.kodowanko/
 - Nowy blog: https://usigna.netlify.app/
 
-Jeżeli chcesz porozmawiać (np. o dostępności) napisz na: uwagakodowanko@gmail.com
+<!-- Jeżeli chcesz porozmawiać (np. o dostępności) napisz na: uwagakodowanko@gmail.com -->
 
 <!--
 **usigna/usigna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
