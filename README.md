@@ -5,7 +5,7 @@ Cześć,
 - Aktualnie pogłębiam wiedzę z UX i WordPressa
 - Według testu 16personalities jestem INFJ
 - Slajdy dotyczące dostępności: https://www.instagram.com/uwaga.kodowanko/
-- Nowy blog: https://usigna.netlify.app/
+- Nowy blog: https://usigna-dg.netlify.app/
 
 <!-- Jeżeli chcesz porozmawiać (np. o dostępności) napisz na: uwagakodowanko@gmail.com -->
 
