@@ -1,10 +1,14 @@
-Cześć,
+Kocham Frontend za to, że dostarcza mi białe płótno, na którym mogę stworzyć, co tylko zechcę. Mogę zrobić coś, co komuś pomoże lub dzięki czemu ktoś się uśmiechnie. Mogę łatwo wejść w "stan flow" i zapomnieć o otaczającym mnie świecie.
+
+:link: Linki do różnych rzeczy: https://usigna.github.io/links/
+
+<!-- Cześć,
 
 - Lubię kodować strony internetowe
 - Znam HTML, CSS, Sass, JavaScript, WCAG 2.1
 - Aktualnie pogłębiam wiedzę z UX i WordPressa
 - Według testu 16personalities jestem INFJ
-- Slajdy dotyczące dostępności: https://www.instagram.com/uwaga.kodowanko/
+- Slajdy dotyczące dostępności: https://www.instagram.com/uwaga.kodowanko/ -->
 
 <!-- Jeżeli chcesz porozmawiać (np. o dostępności) napisz na: uwagakodowanko@gmail.com -->
 
