@@ -1,6 +1,8 @@
-# Cześć! 👋
+Hello, World!_
 
-<!-- Specjalizuję się w tworzeniu stron internetowych oraz jestem certyfikowanym testerem/audytorem dostępności cyfrowej (WCAG 2.1 i Section 508). Posiadam certyfikat DHS Trusted Tester wydany przez U.S. Department of Homeland Security. Obecnie staram się wyspecjalizować w kreatywnym frontendzie.
+<!-- # Cześć! 👋
+
+Specjalizuję się w tworzeniu stron internetowych oraz jestem certyfikowanym testerem/audytorem dostępności cyfrowej (WCAG 2.1 i Section 508). Posiadam certyfikat DHS Trusted Tester wydany przez U.S. Department of Homeland Security. Obecnie staram się wyspecjalizować w kreatywnym frontendzie.
 <br />
 <br />
 📬 usignak@gmail.com -->
